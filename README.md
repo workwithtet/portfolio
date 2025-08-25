@@ -61,7 +61,15 @@ I’m passionate about creating **minimalist, user-first digital experiences** t
 ## 📂 Featured Work
 - 🖼️ [Portfolio Website](https://alcantaratet.wixsite.com/portfolio)  
 - 🤖 [AI SEO Product Generator](#) *(in progress)*  
-- 📊 [Excel-to-SQL Automation Scripts](#) *(learning project)*  
+- 📊 [Excel-to-SQL Automation Scripts](#) *(learning project)*
+
+
+- ### 📊 Featured Project: Call Center Performance Analysis
+- 🔗 Notebook: <Kaggle [Notebook URL](https://www.kaggle.com/code/workwithtet/call-center-performance-analysis)>
+- 🗂️ Dataset: <Kaggle [Dataset URL](https://www.kaggle.com/datasets/workwithtet/call-center-sample-efficiency-and-quality-metrics)>
+- 🛠 Tools: Python (pandas, matplotlib), BI concepts (AHT, sentiment, agent performance)
+- 🎯 Focus: Quality & process improvement (ISO, Six Sigma)
+
 
 ---
 
